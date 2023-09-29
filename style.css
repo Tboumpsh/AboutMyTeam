@@ -69,6 +69,7 @@ section {
     justify-content: center;
     align-items: center;
     overflow: hidden;
+    background-color: black;
 }
 
 section::before {
@@ -154,6 +155,7 @@ body {
   font-size: 100%;
   text-align: center;
   overflow-x: hidden;
+    background-color: black;
 }
 .criterion {
   font-size: 1.6rem;
@@ -5936,6 +5938,10 @@ width: 30px;
   display: inline-flex;
 }
 :root{
+    background-color: black;
+}
+
+body{
     background-color: black;
 }
 
