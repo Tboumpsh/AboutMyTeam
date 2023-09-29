@@ -5933,5 +5933,6 @@ width: 30px;
 .imgy{
   display: inline-flex;
 }
-
+:root{
+    background-color: black;
 
