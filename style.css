@@ -3,7 +3,7 @@
 
 :root{
 
-    background-color: rgb(92, 215, 102);
+    background-color: rgb(40, 219, 55);
 
 }
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
@@ -30,7 +30,7 @@ header {
 }
 
 header .logo {
-    color: #fff;
+    color: #fffefe;
     font-weight: 700;
     text-decoration: none;
     font-size: 30px ;
