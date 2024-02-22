@@ -30,7 +30,7 @@ header {
 }
 
 header .logo {
-    color: #fffefe;
+    color: #ffffff;
     font-weight: 700;
     text-decoration: none;
     font-size: 30px ;
@@ -52,13 +52,13 @@ header ul li {
 header ul li a {
     text-decoration: none;
     padding: 6px 15px;
-    color: #fff;
+    color: #ffffff;
     border-radius: 20px;
 }
 
 header ul li a:hover,
 header ul li a.active {
-    background: #fff;
+    background: #ffffff;
     color: #2b1055;
 }
 
